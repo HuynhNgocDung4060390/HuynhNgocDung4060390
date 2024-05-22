@@ -4,8 +4,7 @@
 
 Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting adventure of discovering, analyzing, and visualizing the world using data.
 
-<h2>About me</h2>
-<br />
+## About Me
 
 - 📖 Third year student majoring in Management Information Systems at the University of Economics and Law (UEL).
 
