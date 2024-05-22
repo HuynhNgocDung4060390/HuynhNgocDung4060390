@@ -17,6 +17,7 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
 
 <h2>Current Focus</h2>
 <br/>
+
 - 🔍 Exploring captivating datasets and creating compelling data-driven narratives.
 
 - 📚 Actively developing proficiency in SQL, Power BI, and Python for data analysis.
