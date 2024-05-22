@@ -9,19 +9,18 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
 - 📖 Third year student majoring in Management Information Systems at the University of Economics and Law (UEL).
 
 - 🌱 Ambitious data analyst with a passion for turning data into actionable insights.
-- 
+  
 - ⚡ Proactive, responsible, forward-thinking and willing to learn
-- 
+  
 - 🔍 Seeking data analyst or related position in a dynamic environment to contribute to business growth while advancing personal development.
-- 
 
-<h2>Current Focus/h2>
-<br />
+<h2>Current Focus</h2>
+<br/>
   
 - 🔍 Exploring captivating datasets and creating compelling data-driven narratives.
-- 
+
 - 📚 Actively developing proficiency in SQL, Power BI, and Python for data analysis.
-- 
+  
 - 📈 Continuously enhancing skills through data analysis projects and ongoing coursework.
 
 
@@ -37,7 +36,7 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
   </a>
 </p>
 
-<h2> 🔭 Skills/h2>
+<h2> 🔭 Skills</h2>
 <br />
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
@@ -49,7 +48,7 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-<h2> 💻 GitHub Stats/h2>
+<h2> 💻 GitHub Stats</h2>
 <br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuynhNgocDung4060390)](https://github.com/anuraghazra/github-readme-stats)
 
