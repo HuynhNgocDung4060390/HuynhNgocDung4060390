@@ -7,24 +7,18 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
 ## About Me
 
 - 📖 Third year student majoring in Management Information Systems at the University of Economics and Law (UEL).
-
 - 🌱 Ambitious data analyst with a passion for turning data into actionable insights.
-  
 - ⚡ Proactive, responsible, forward-thinking and willing to learn
-  
 - 🔍 Seeking data analyst or related position in a dynamic environment to contribute to business growth while advancing personal development.
 
-<h2>Current Focus</h2>
-<br/>
-
+## Current Focus
 - 🔍 Exploring captivating datasets and creating compelling data-driven narratives.
 
 - 📚 Actively developing proficiency in SQL, Power BI, and Python for data analysis.
 
 - 📈 Continuously enhancing skills through data analysis projects and ongoing coursework.
 
-<h2>📫 How to reach me</h2>
-<br />
+## 📫 How to reach me
 <p align="center">
   <a href="https://www.linkedin.com/in/huynhdung23/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -34,8 +28,7 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
   </a>
 </p>
 
-<h2> 🔭 Skills</h2>
-<br />
+## 🔭 Skills
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
@@ -46,8 +39,7 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
-<h2> 💻 GitHub Stats</h2>
-<br />
+## 💻 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuynhNgocDung4060390)](https://github.com/anuraghazra/github-readme-stats)
 
 
