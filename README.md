@@ -19,7 +19,7 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
 - 📈 Continuously enhancing skills through data analysis projects and ongoing coursework.
 
 ## 📫 How to reach me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/huynhdung23/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a> 
@@ -29,7 +29,7 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
 </p>
 
 ## 🔭 Skills
-<p align="center">
+<p>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
