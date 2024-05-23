@@ -6,7 +6,7 @@ Greetings! I'm Dung Huynh, an enthusiastic data analyst embarking on an exciting
 
 ## About Me
 
-- 📖 Final year student majoring in Management Information Systems at the University of Economics and Law (UEL).
+- 📖 Final year student looking for an Internship major in Management Information Systems at the University of Economics and Law (UEL).
 - 🌱 Ambitious data analyst with a passion for turning data into actionable insights.
 - ⚡ Proactive, responsible, forward-thinking and willing to learn
 - 🔍 Seeking data analyst or related position in a dynamic environment to contribute to business growth while advancing personal development.
